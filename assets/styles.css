@@ -9,3 +9,10 @@
 .windowhidden{
     display: none;
 }
+.botonEnlace{
+    cursor: pointer;
+    color: rgb(250, 79, 79);
+}
+.botonEnlace:hover{
+    color: rgb(247, 14, 14);
+}
