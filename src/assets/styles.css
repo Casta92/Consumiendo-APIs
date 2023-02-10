@@ -1,0 +1,11 @@
+.menuDesktop{
+    display: flex;
+    flex-direction: column-reverse;
+    position: absolute;
+    top: 40px;
+    
+}
+
+.windowhidden{
+    display: none;
+}
