@@ -38,9 +38,9 @@ async function fetchData(urlAPI){
                     <span aria-hidden="true" class="absolute inset-0"></span>
                         ${video.snippet.title}       
                     </h3>
-                </div>
+                </div>                
             </div>        
-        `).slice(0,4).join('')}
+        `).slice(0,8).join('')}
         `;
 
         content.innerHTML = view;
